@@ -6,7 +6,7 @@ namespace CMP1903M_W05
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Student s = new Student();
         }
     }
 }
