@@ -6,6 +6,7 @@ namespace CMP1903M_W05
 {
     class Student
     {
+        //Some properties describing a Student
         public string Name { get; set; }
         public int Age { get; set; }
         public int studentID { get; set; }
